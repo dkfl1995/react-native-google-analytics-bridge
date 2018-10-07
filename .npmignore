@@ -1,6 +1,5 @@
 # example project
 examples/
-src/
 # build
 .travis
 .travis.yml
